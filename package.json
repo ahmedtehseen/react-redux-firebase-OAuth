@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author":"tehseen ahmed",
   "description": "React/Redux app with firebase OAuth and realtime database.",
-  "repository": "",
+  "repository": "https://github.com/ahmedtehseen/react-redux-firebase-OAuth",
   "devDependencies": {
     "react-scripts": "0.9.0"
   },
