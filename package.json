@@ -1,7 +1,7 @@
 {
   "name": "firbase-Oauth",
   "version": "0.1.0",
-  "author":"tehseen ahmed",
+  "author": "tehseen ahmed",
   "description": "React/Redux app with firebase OAuth and realtime database.",
   "repository": "https://github.com/ahmedtehseen/react-redux-firebase-OAuth",
   "devDependencies": {
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "firebase": "^3.6.9",
+    "firebase": "^4.5.1",
     "react": "^15.4.2",
     "react-bootstrap": "^0.30.7",
     "react-dom": "^15.4.2",
